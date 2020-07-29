@@ -1,0 +1,54 @@
+body {
+	font-size: 110%;
+	margin: 0;
+	padding: 0;
+	background: url('pozadina1.jpg');
+	font-family: Georgia, serif;
+}
+
+.ankete table, td, th, tr {
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding: 10px;
+}
+
+.testovi table, td, th, tr {
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding: 10px;
+}
+
+th {
+	font-size: 120%;
+}
+
+a:link {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+a:visited {
+	color: black;
+}
+
+#sortiranjeA, #sortiranjeT {
+	width: 175px;
+	background-color: #5F9EA0;
+	padding: 5px;
+	font-size: 15px;
+	border-radius: 5px;
+	margin-left: 10px;
+}
+
+.btn {
+	padding: 5px;
+	font-size: 15px;
+	color: white;
+	background: #5F9EA0;
+	border: none;
+	border-radius: 5px;
+}

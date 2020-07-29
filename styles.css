@@ -1,0 +1,60 @@
+body {
+	font-size: 110%;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	background: url('pozadina1.jpg');
+	font-family: Georgia, serif;
+}
+
+.header_form {
+	width: 30%;
+	margin: 50px auto 0px;
+	color: white;
+	background: #5F9EA0;
+	text-align: center;
+	border: 1px solid #B0C4DE;
+	border-bottom: none;
+	border-radius: 10px 10px 0px 0px;
+	padding: 10px;
+}
+
+form {
+	width: 30%;
+	margin: 0px auto 100px;
+	padding: 10px;
+	border: 1px solid #B0C4DE;
+	background: white;
+	border-radius: 0px 0px 10px 10px;
+}
+
+.podaci {
+	margin: 10px 15px 10px 15px;
+}
+
+.podaci label{
+	dispay: block;
+	text-align: left;
+	margin: 3px;
+}
+.podaci input{
+	height: 30px;
+	width: 95%;
+	padding: 5px 10px;
+	font-size: 16px;
+	border-radius: 10px;
+	border: 1px solid gray;
+} 
+
+p {
+	text-align: center;
+}
+
+.btn {
+	padding: 10px;
+	font-size: 15px;
+	color: white;
+	background: #5F9EA0;
+	border: none;
+	border-radius: 5px;
+}

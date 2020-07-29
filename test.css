@@ -1,0 +1,32 @@
+body {
+	font-size: 110%;
+	margin: 0;
+	padding: 0;
+	background: url('pozadina1.jpg');
+	font-family: Georgia, serif;
+}
+
+#mojaforma {
+	width: 30%;
+	margin: 30px auto 100px;
+	padding: 20px;
+	border: 1px solid #B0C4DE;
+	background: white;
+	border-radius: 10px 10px 10px 10px;
+}
+
+#id1 {
+	padding: 10px;
+	background-color: #ffcccc;
+	border: 1px solid #B0C4DE;
+	border-radius: 10px 10px 10px 10px;
+}
+
+.btn {
+	padding: 10px;
+	font-size: 15px;
+	color: white;
+	background: #5F9EA0;
+	border: none;
+	border-radius: 5px;
+}
